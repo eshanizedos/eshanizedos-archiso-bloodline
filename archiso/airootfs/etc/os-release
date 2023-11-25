@@ -1,0 +1,12 @@
+NAME="Eshanized OS"
+PRETTY_NAME="Eshanized OS BloodLine"
+ID=eshanizedos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://eshanizedos.github.io/"
+DOCUMENTATION_URL="https://eshanizedos.github.io/"
+SUPPORT_URL="https://eshanizedos.github.io/"
+BUG_REPORT_URL="https://eshanizedos.github.io/"
+PRIVACY_POLICY_URL="eshanizedos.github.io/"
+LOGO=eshanizedos
