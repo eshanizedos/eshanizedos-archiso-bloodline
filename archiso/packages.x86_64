@@ -235,8 +235,8 @@ gparted
 gsmartcontrol
 nbd
 testdisk
-rtw89-dkms-git
-broadcom-wl-dkms
+###rtw89-dkms-git
+###broadcom-wl-dkms
 xf86-video-openchrome
 xf86-video-sisusb
 xf86-video-vesa
@@ -266,7 +266,7 @@ spiderfoot
 john
 johnny
 burpsuite
-whatweb
+###whatweb
 dnswalk
 wifite
-wifibroot
+###wifibroot
