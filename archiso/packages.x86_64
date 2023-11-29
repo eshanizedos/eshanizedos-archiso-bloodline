@@ -97,7 +97,7 @@ dracut
 freetype2
 fscrypt
 logrotate
-lsb-release
+###lsb-release
 lvm2
 man-db
 man-pages
