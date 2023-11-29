@@ -208,7 +208,10 @@ fish
 
 ### K E R N E L ###
 linux
-linux-header
+linux-atm
+linux-firmware
+linux-firmware-marvell
+
 
 ### B L O O D L I N E ###
 brave
