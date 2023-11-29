@@ -190,7 +190,7 @@ pipewire-support
 wireplumber
 pipewire-jack
 lib32-pipewire-jack
-input-devices-support
+###input-devices-support
 noto-fonts
 noto-fonts-emoji
 ttf-fira-sans
