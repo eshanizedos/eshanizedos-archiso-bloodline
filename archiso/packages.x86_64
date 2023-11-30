@@ -109,6 +109,7 @@ nano
 syslinux
 memtest86+-efi
 edk2-shell
+linux-headers
 
 ### D E S P E C I F I C ###
 xorg-server
