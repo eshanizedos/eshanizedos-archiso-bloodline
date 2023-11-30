@@ -218,7 +218,7 @@ linux-firmware-marvell
 
 ### B L O O D L I N E ###
 brave
-calamares
+calamares-git
 ckbcomp
 xkeyboard-config
 upower
@@ -297,26 +297,3 @@ chaotic-keyring
 blackarch-mirrorlist
 chaotic-mirrorlist
 gnome-keyring
-
-
-### T O O L S ###
-hydra
-metasploit
-hashcat
-bloodhound
-cupp
-nikto
-wireshark-qt
-aircrack-ng
-beef
-hping
-wpscan
-medusa
-spiderfoot
-john
-johnny
-burpsuite
-###whatweb
-dnswalk
-wifite
-###wifibroot
